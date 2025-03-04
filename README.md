@@ -7,7 +7,7 @@ This repo consists of the book with more practical examples in simple language
 
 # Part 1: [The Fundamentals of Machine Learning](https://drive.google.com/drive/folders/1eGClhIrWSXS5y_jLEJGHJE8L3jpJGqpR?usp=sharing)
 
-- **Chapter 1**: <a href="https://docs.google.com/document/d/14RBceLdOSGzj-_ztF7PJ1YbRGm1YFi4mQn7741szHN8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">The Machine Learning Landscape</a>
+- **Chapter 1**: [The Machine Learning Landscape](https://docs.google.com/document/d/14RBceLdOSGzj-_ztF7PJ1YbRGm1YFi4mQn7741szHN8/edit?usp=sharing)
 - **Chapter 2**: [End-to-End Machine Learning Project](https://docs.google.com/document/d/1C72XmwE3OXzRl9V_AI2hrsRlepxvB-MDYSIxsuQBRJc/edit?usp=sharing)
 
 
